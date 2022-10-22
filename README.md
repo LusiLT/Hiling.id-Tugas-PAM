@@ -1,6 +1,6 @@
 # Aplikasi Pencarian Jadwal Pesawat
 
-Nama : Lusi Lesmana Tamba
+Nama : Lusi Lesmana Tamba <br>
 Nim  : 119140072
 
 # Deskripsi 
